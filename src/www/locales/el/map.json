@@ -1,0 +1,7 @@
+{
+    "waitGPS": "Περιμένοντας για την διόρθωση του GPS",
+    "gpsTimeout": "Δεν βρέθηκε θέση GPS",
+    "gpsEnable": "Πρέπει να ενεργοποιήσετε το GPS σας.",
+    "gpsTest": "Su GPS necesita ser probado",
+    "gpsTest2": "Su GPS necesita ser probado segunda parte"
+}

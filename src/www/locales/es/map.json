@@ -3,5 +3,7 @@
     "gpsTimeout": "GPS no ha respondido a tiempo",
     "gpsEnable": "El GPS necesita habilitarse",
     "gpsTest": "El GPS necesita ser probado",
-    "gpsTest2": "El GPS necesita ser probado parte 2"
+    "gpsTest2": "El GPS necesita ser probado parte 2",
+    "gpsTest3": "El GPS necesita ser probado parte 3",
+    "gpsTest4": "El GPS necesita ser probado parte 4"
 }

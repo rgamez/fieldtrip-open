@@ -1,0 +1,7 @@
+{
+    "waitGPS": "Esperando por señal del GPS",
+    "gpsTimeout": "GPS no ha respondido a tiempo",
+    "gpsEnable": "El GPS necesita habilitarse",
+    "gpsTest": "El GPS necesita ser probado",
+    "gpsTest2": "El GPS necesita ser probado parte 2"
+}
